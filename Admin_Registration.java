@@ -15,10 +15,6 @@ import javax.swing.JOptionPane;
 
 public class Admin_Registration extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Admin_Registration
-     */
-    
     Connection con;
     ResultSet rs;
     PreparedStatement pst;
