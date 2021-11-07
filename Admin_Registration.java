@@ -13,10 +13,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Krishno Dey
- */
 public class Admin_Registration extends javax.swing.JFrame {
 
     /**
